@@ -1,2 +1,4 @@
-# MultiThreadTest-windows
-Windows下多线程例子
+# Test
+测试用
+Windows下多线程
+动态内存管理函数（C++）
